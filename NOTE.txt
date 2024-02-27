@@ -1,2 +1,1 @@
-Define desired function in app.py
-run by "python app.py" in cmd
+Define desired function in app.py. At this point in time, the function must be increasing on the given interval. 
