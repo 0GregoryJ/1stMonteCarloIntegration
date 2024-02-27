@@ -1,0 +1,2 @@
+Define desired function in app.py
+run by "python app.py" in cmd
